@@ -1,0 +1,5 @@
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Winkel\Winkel\bin\Debug\Winkel.exe
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Winkel\Winkel\bin\Debug\Winkel.pdb
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Winkel\Winkel\obj\x86\Debug\Winkel.exe
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Winkel\Winkel\obj\x86\Debug\Winkel.pdb
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Winkel\Winkel\obj\x86\Debug\Winkel.csprojResolveAssemblyReference.cache
