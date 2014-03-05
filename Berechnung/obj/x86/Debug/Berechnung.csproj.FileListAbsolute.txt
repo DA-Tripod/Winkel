@@ -1,0 +1,17 @@
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\bin\Debug\Berechnung.exe
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\bin\Debug\Berechnung.pdb
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\Berechnung.Form1.resources
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\Berechnung.Properties.Resources.resources
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\Berechnung.exe
+D:\Users\Alesandro\AppData\Local\Temporary Projects\Berechnung\obj\x86\Debug\Berechnung.pdb
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.exe
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.pdb
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\bin\Debug\Berechnung.exe
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\bin\Debug\Berechnung.pdb
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.Form1.resources
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.Properties.Resources.resources
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.csproj.GenerateResource.Cache
+D:\Users\Alesandro\Desktop\2014\DA\Schrittmotorenberechnung\Berechnung\Berechnung\obj\x86\Debug\Berechnung.csprojResolveAssemblyReference.cache
